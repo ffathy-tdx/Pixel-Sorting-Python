@@ -184,8 +184,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-'''
-python pixel_sort.py images/NightMarket.jpg output/NightMarket.jpg --show
-'''
