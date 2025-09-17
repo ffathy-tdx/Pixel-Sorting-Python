@@ -1,7 +1,8 @@
 # Pixel Sorting (Python)
 
 A Python reimplementation of the classic pixel sorting glitch art effect.  
-Based on the Unity compute-shader project [Pixel-Sorting](https://github.com/GarrettGunnell/Pixel-Sorting), but implemented in plain Python with OpenCV, NumPy, and [colour-science](https://pypi.org/project/colour-science/).
+Based on the Unity compute-shader project [Pixel-Sorting](https://github.com/GarrettGunnell/Pixel-Sorting), but implemented in plain Python with OpenCV, NumPy, and [colour-science](https://pypi.org/project/colour-science/).  
+Unlike the GPU-accelerated Unity version, this implementation is CPU-based, making it slower but more portable and easier to run on any system.
 
 <div align="center">
 
@@ -83,3 +84,13 @@ python pixel_sort.py input.jpg output.jpg --show
 ## Original Idea & Unity Implementation
 [Acerola on Youtube](https://www.youtube.com/watch?v=HMmmBDRy-jE)  
 [GitHub Repository](https://github.com/GarrettGunnell/Pixel-Sorting)
+
+## Contributing
+Contributions to this project are welcome. If you have suggestions or would like to contribute, please fork the repository and create a pull request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+For questions or support, you can contact me here:
+Email: [ffathy2004@gmail.com](mailto:ffathy2004@gmail.com)
