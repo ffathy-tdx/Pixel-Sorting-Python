@@ -7,8 +7,8 @@ Based on the Unity compute-shader project [Pixel-Sorting](https://github.com/Gar
 
 <table>
 <tr>
-<td><b><center>Original</center></b></td>
-<td><b><center>Pixel Sorted</center></b></td>
+  <td align="center"><b>Original</b></td>
+  <td align="center"><b>Pixel Sorted</b></td>
 </tr>
 
 <tr>
