@@ -3,6 +3,38 @@
 A Python reimplementation of the classic pixel sorting glitch art effect.  
 Based on the Unity compute-shader project [Pixel-Sorting](https://github.com/GarrettGunnell/Pixel-Sorting), but implemented in plain Python with OpenCV, NumPy, and [colour-science](https://pypi.org/project/colour-science/).
 
+<div align="center">
+
+<table>
+<tr>
+<td><b><center>Original</center></b></td>
+<td><b><center>Pixel Sorted</center></b></td>
+</tr>
+
+<tr>
+<td><img src="images/agora_jibaro_1.jpg" width="1000"></td>
+<td><img src="output/agora_jibaro_1.jpg" width="1000"></td>
+</tr>
+
+<tr>
+<td><img src="images/kaguya.jpg" width="300"></td>
+<td><img src="output/kaguya.jpg" width="300"></td>
+</tr>
+
+<tr>
+<td><img src="images/NightMarket.jpg" width="300"></td>
+<td><img src="output/NightMarket.jpg" width="300"></td>
+</tr>
+<tr>
+<td><img src="images/shipscat.jpg" width="300"></td>
+<td><img src="output/shipscat.jpg" width="300"></td>
+</tr>
+
+</table>
+
+</div>
+
+
 ---
 
 ## Features
@@ -47,38 +79,6 @@ python pixel_sort.py input.jpg output.jpg --show
 --gamma 1.2         # gamma correction (default 1.2)  
 --show              # preview with matplotlib
 ```
-
-## Examples
-<div align="center">
-
-<table>
-<tr>
-<td><b><center>Original</center></b></td>
-<td><b><center>Pixel Sorted</center></b></td>
-</tr>
-
-<tr>
-<td><img src="images/agora_jibaro_1.jpg" width="1000"></td>
-<td><img src="output/agora_jibaro_1.jpg" width="1000"></td>
-</tr>
-
-<tr>
-<td><img src="images/kaguya.jpg" width="300"></td>
-<td><img src="output/kaguya.jpg" width="300"></td>
-</tr>
-
-<tr>
-<td><img src="images/NightMarket.jpg" width="300"></td>
-<td><img src="output/NightMarket.jpg" width="300"></td>
-</tr>
-<tr>
-<td><img src="images/shipscat.jpg" width="300"></td>
-<td><img src="output/shipscat.jpg" width="300"></td>
-</tr>
-
-</table>
-
-</div>
 
 ## Original Idea & Unity Implementation
 [Acerola on Youtube](https://www.youtube.com/watch?v=HMmmBDRy-jE)  
