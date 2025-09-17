@@ -71,6 +71,10 @@ python pixel_sort.py input.jpg output.jpg --show
 <td><img src="images/NightMarket.jpg" width="300"></td>
 <td><img src="output/NightMarket.jpg" width="300"></td>
 </tr>
+<tr>
+<td><img src="images/shipscat.jpg" width="300"></td>
+<td><img src="output/shipscat.jpg" width="300"></td>
+</tr>
 
 </table>
 
