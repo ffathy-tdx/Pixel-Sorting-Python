@@ -13,27 +13,28 @@ Unlike the GPU-accelerated Unity version, this implementation is CPU-based, maki
 </tr>
 
 <tr>
-<td><img src="images/agora_jibaro_1.jpg" width="1000"></td>
-<td><img src="output/agora_jibaro_1.jpg" width="1000"></td>
+<td align="center"><img src="images/agora_jibaro_1.jpg" width="1000" style="display:block; margin:auto;"></td>
+<td align="center"><img src="output/agora_jibaro_1.jpg" width="1000" style="display:block; margin:auto;"></td>
 </tr>
 
 <tr>
-<td><img src="images/kaguya.jpg" width="300"></td>
-<td><img src="output/kaguya.jpg" width="300"></td>
+<td align="center"><img src="images/kaguya.jpg" width="300" style="display:block; margin:auto;"></td>
+<td align="center"><img src="output/kaguya.jpg" width="300" style="display:block; margin:auto;"></td>
 </tr>
 
 <tr>
-<td><img src="images/NightMarket.jpg" width="300"></td>
-<td><img src="output/NightMarket.jpg" width="300"></td>
-</tr>
-<tr>
-<td><img src="images/shipscat.jpg" width="300"></td>
-<td><img src="output/shipscat.jpg" width="300"></td>
+<td align="center"><img src="images/NightMarket.jpg" width="300" style="display:block; margin:auto;"></td>
+<td align="center"><img src="output/NightMarket.jpg" width="300" style="display:block; margin:auto;"></td>
 </tr>
 
+<tr>
+<td align="center"><img src="images/shipscat.jpg" width="300" style="display:block; margin:auto;"></td>
+<td align="center"><img src="output/shipscat.jpg" width="300" style="display:block; margin:auto;"></td>
+</tr>
 </table>
 
 </div>
+
 
 
 ---
