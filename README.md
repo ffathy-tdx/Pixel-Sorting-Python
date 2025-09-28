@@ -93,5 +93,5 @@ Contributions to this project are welcome. If you have suggestions or would like
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-For questions or support, you can contact me here:
+For questions or support, you can contact me here:  
 Email: [ffathy2004@gmail.com](mailto:ffathy2004@gmail.com)
